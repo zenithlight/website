@@ -25,6 +25,7 @@
   <h1>About</h1>
   <p>I am a full-stack developer. Currently I am at Alexa Spoken Word. Previously I was at Funko.</p>
   <p>I joined Cal State LA as part of the Early Entrance Program in 2013. I later transferred to the University of Washington, and completed my B.S. in Human-Centered Design and Engineering in 2017.</p>
+  <p><a href="things-i-like">Some things I like</a></p>
   <p>Github: <a href="https://github.com/zenithlight">zenithlight</a></p>
   <p>Email: <a href="mailto:alexis@alexisanand.com">alexis@alexisanand.com</a></p>
 </div>
